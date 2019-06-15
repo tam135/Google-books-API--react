@@ -1,0 +1,13 @@
+h2 {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    padding: 5%;
+}
+
+.header {
+    background-color: black;
+    height: 200px;
+    margin-top: 0;
+}
+
